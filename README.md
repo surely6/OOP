@@ -11,9 +11,8 @@ This Java Swing application is a **Consultation Management System** developed fo
 
 ## 🗂️ System Overview
 
-Here's a simple flow diagram of how the app works:
+Here's a simple plaintext flow diagram of how the app works:
 
-In plaintext
 Login/Register --> Consultation Dashboard --> Book Slot/View Statuses
 
 ## 🧰 Installation & Run Instructions (for Java IDEs like NetBeans)
@@ -30,12 +29,12 @@ Login/Register --> Consultation Dashboard --> Book Slot/View Statuses
 ⏱ Time Sync Issue:
 There is a slight time mismatch between the system's slot display and real-world current time when viewed in some environments (especially SL site references). This is under investigation and will be addressed in future versions.
 
-##📌 Technologies Used
+## 📌 Technologies Used
 - Java (JDK 17+)
 - Java Swing (GUI)
 - File Handling (FileWriter, Scanner, BuferedReader)
 - OOP Principles: Inheritance, Encapsulation, Polymorphism
 - NetBeans as IDEs
 
-#Thank you for checking out the project!
+# Thank you for checking out the project!
 Feel free to star ⭐ the repo or share feedback.
