@@ -36,5 +36,9 @@ There is a slight time mismatch between the system's slot display and real-world
 - OOP Principles: Inheritance, Encapsulation, Polymorphism
 - NetBeans as IDEs
 
+## 👨‍💻 Created By
+KH (Developer, Lecturer part)
+SL (Developer, Student part)
+
 # Thank you for checking out the project!
 Feel free to star ⭐ the repo or share feedback.
