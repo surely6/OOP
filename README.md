@@ -38,7 +38,7 @@ There is a slight time mismatch between the system's slot display and real-world
 
 ## 👨‍💻 Created By
 KH (Developer, Lecturer part)
-SL (Developer, Student part)
+SL (Developer, Student part) https://github.com/surely6
 
 # Thank you for checking out the project!
 Feel free to star ⭐ the repo or share feedback.
