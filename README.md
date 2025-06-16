@@ -37,7 +37,7 @@ There is a slight time mismatch between the system's slot display and real-world
 - NetBeans as IDEs
 
 ## 👨‍💻 Created By
-- KH (Developer, Lecturer part)
+- KH (Developer, Lecturer part) https://github.com/wkhoong
 - SL (Developer, Student part) https://github.com/surely6
 
 # Thank you for checking out the project!
